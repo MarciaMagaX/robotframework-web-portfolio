@@ -1,0 +1,156 @@
+{"level":30,"time":"2025-06-06T18:57:04.887Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Listening on 127.0.0.1:59569"}
+(node:3248) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2025-06-06T18:57:05.402Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2025-06-06T18:57:05.598Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Adding browser to stack: chromium, version: 136.0.7103.25"}
+{"level":30,"time":"2025-06-06T18:57:05.598Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method newBrowser"}
+{"level":30,"time":"2025-06-06T18:57:05.598Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2025-06-06T18:57:05.604Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-06-06T18:57:05.604Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-06-06T18:57:05.618Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Changed active context"}
+{"level":30,"time":"2025-06-06T18:57:05.810Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Video path: undefined"}
+{"level":30,"time":"2025-06-06T18:57:05.810Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Changed active page"}
+{"level":30,"time":"2025-06-06T18:57:06.161Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method newPage"}
+{"level":30,"time":"2025-06-06T18:57:06.165Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-06-06T18:57:06.165Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2025-06-06T18:57:06.194Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-06-06T18:57:06.198Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getText"}
+{"level":30,"time":"2025-06-06T18:57:06.198Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2025-06-06T18:57:06.223Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2025-06-06T18:57:06.223Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getText"}
+{"level":30,"time":"2025-06-06T18:57:06.228Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-06-06T18:57:06.228Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=\"name\"] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.240Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method fillText"}
+{"level":30,"time":"2025-06-06T18:57:06.245Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-06-06T18:57:06.245Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=\"email\"] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.258Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method fillText"}
+{"level":30,"time":"2025-06-06T18:57:06.262Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-06-06T18:57:06.262Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=\"cpf\"] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.271Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method fillText"}
+{"level":30,"time":"2025-06-06T18:57:06.276Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-06-06T18:57:06.276Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=\"cep\"] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.286Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method fillText"}
+{"level":30,"time":"2025-06-06T18:57:06.292Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method click"}
+{"level":30,"time":"2025-06-06T18:57:06.292Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[value=\"Buscar CEP\"] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.336Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method click"}
+{"level":30,"time":"2025-06-06T18:57:06.341Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.341Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.348Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.348Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.360Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.360Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.367Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.367Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.379Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.379Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.386Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.386Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.398Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.398Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.405Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.405Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.417Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.417Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.426Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.426Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.442Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.442Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.461Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.461Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.477Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.477Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.497Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.498Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.510Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.510Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.520Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.520Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.535Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.535Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.545Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.545Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.558Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.558Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.563Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.564Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.575Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.576Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.585Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.585Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.597Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.597Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.604Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.604Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.616Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.616Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.624Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.624Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.635Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.636Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.643Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.643Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.655Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.655Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.662Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.662Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.674Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.674Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.682Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.682Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.694Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.694Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.701Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.701Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.713Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.713Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.720Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2025-06-06T18:57:06.720Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.732Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.732Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.743Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Avenida Paulista"}
+{"level":30,"time":"2025-06-06T18:57:06.743Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.745Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.746Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.752Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Bela Vista"}
+{"level":30,"time":"2025-06-06T18:57:06.752Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.755Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.755Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.761Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing São Paulo/SP"}
+{"level":30,"time":"2025-06-06T18:57:06.761Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2025-06-06T18:57:06.764Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-06-06T18:57:06.764Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressNumber\"] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.774Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method fillText"}
+{"level":30,"time":"2025-06-06T18:57:06.778Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-06-06T18:57:06.778Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[name=\"addressDetails\"] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.788Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method fillText"}
+{"level":30,"time":"2025-06-06T18:57:06.795Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Reading multiplepart uploadFileBySelector"}
+{"level":30,"time":"2025-06-06T18:57:06.795Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2025-06-06T18:57:06.796Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Uploading file(s) C:\\QAx\\projects\\walkdog-robot\\SAMPLE.jpg to css=input[type=file]"}
+{"level":30,"time":"2025-06-06T18:57:06.814Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method click"}
+{"level":30,"time":"2025-06-06T18:57:06.814Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2025-06-06T18:57:06.851Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method click"}
+{"level":30,"time":"2025-06-06T18:57:06.854Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-06-06T18:57:06.854Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2025-06-06T18:57:07.159Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-06-06T18:57:07.163Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getText"}
+{"level":30,"time":"2025-06-06T18:57:07.163Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2025-06-06T18:57:07.173Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Retrieved text for element css=.swal2-html-container containing Recebemos o seu cadastro e em breve retornaremos o contato."}
+{"level":30,"time":"2025-06-06T18:57:07.173Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getText"}
+{"level":30,"time":"2025-06-06T18:57:07.179Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-06-06T18:57:07.181Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-06-06T18:57:07.182Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-06-06T18:57:07.184Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-06-06T18:57:07.185Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-06-06T18:57:07.186Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-06-06T18:57:07.189Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-06-06T18:57:07.192Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-06-06T18:57:07.195Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Changed active context"}
+{"level":30,"time":"2025-06-06T18:57:07.195Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Changing current active page: page=532f014a-e0ea-44fc-8da1-132337b57252"}
+{"level":30,"time":"2025-06-06T18:57:07.195Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Changed active page"}
+{"level":30,"time":"2025-06-06T18:57:07.198Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-06-06T18:57:07.214Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Removed page=cbe69287-5601-4915-ab3f-898c5a1a4ad0 from context=3bd4171a-767c-45fd-ae81-bee1c06e68f5 page stack"}
+{"level":30,"time":"2025-06-06T18:57:07.240Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-06-06T18:57:07.248Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-06-06T18:57:07.248Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-06-06T18:57:07.287Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-06-06T18:57:07.465Z","pid":3248,"hostname":"DESKTOP-2C4LSMF","msg":"End of node method closeAllBrowsers"}
